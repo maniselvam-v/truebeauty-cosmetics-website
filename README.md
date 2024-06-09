@@ -1,4 +1,4 @@
-# Cosmetic Web Project
+# True Beauty Cosmetics Website
 
 This project is a web application designed for a cosmetics website. It includes various HTML pages and CSS stylesheets, along with images and settings required for the site.
 
